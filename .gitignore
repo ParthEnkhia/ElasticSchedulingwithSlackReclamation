@@ -14,3 +14,6 @@ results/
 # Unrelated personal / temporary files
 test_annotation_B.xlsx
 Datasets.zip
+Datasets/
+elastic_parameters.xlsx
+
